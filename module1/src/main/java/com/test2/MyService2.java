@@ -1,4 +1,4 @@
-package com.test1;
+package com.test2;
 
 
 public class MyService2 {
