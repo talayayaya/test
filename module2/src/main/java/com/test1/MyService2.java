@@ -8,21 +8,21 @@ public class MyService2 {
         System.out.println("test");
     }
 
-    public void aaa(){
-        System.out.println("test");
+    public void bbbb(){
+        System.out.println("bbbbbb");
 
-        System.out.println("test");
-        System.out.println("test");
-        System.out.println("test");
-        System.out.println("test");
+        System.out.println("bbbbbb");
+        System.out.println("bbbbbb");
+        System.out.println("bbbbbb");
+        System.out.println("bbbbbb");
     }
 
-    public void aaa111(){
-        System.out.println("test");
+    public void bbbb1(){
+        System.out.println("bbbbbb");
 
-        System.out.println("test");
-        System.out.println("test");
-        System.out.println("test");
-        System.out.println("test");
+        System.out.println("bbbbbb");
+        System.out.println("bbbbbb");
+        System.out.println("bbbbbb");
+        System.out.println("bbbbbb");
     }
 }
