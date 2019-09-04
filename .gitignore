@@ -1,2 +1,7 @@
 module1/build/
 module1/build/libs/module1-1.0-SNAPSHOT.jar
+.gradle/
+.idea/
+gradle/
+gradlew
+gradlew.bat
