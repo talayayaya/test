@@ -8,21 +8,21 @@ public class MyService2 {
         System.out.println("test");
     }
 
-    public void cccc(){
-        System.out.println("cccc");
+    public void ddddd(){
+        System.out.println("DDDDDD");
 
-        System.out.println("cccc");
-        System.out.println("cccc");
-        System.out.println("cccc");
-        System.out.println("cccc");
+        System.out.println("DDDDDD");
+        System.out.println("DDDDDD");
+        System.out.println("DDDDDD");
+        System.out.println("DDDDDD");
     }
 
-    public void ccccc(){
-        System.out.println("cccc");
+    public void ddddd3(){
+        System.out.println("DDDDDD");
 
-        System.out.println("cccc");
-        System.out.println("cccc");
-        System.out.println("cccc");
-        System.out.println("cccc");
+        System.out.println("DDDDDD");
+        System.out.println("DDDDDD");
+        System.out.println("DDDDDD");
+        System.out.println("DDDDDD");
     }
 }
